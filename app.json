@@ -1,0 +1,11 @@
+{
+    "formation": {
+    "web": {
+        "quantity": 1
+    }
+},
+    "name": "spring-boot-vuejs",
+    "scripts": {
+},
+    "stack": "heroku-18"
+}

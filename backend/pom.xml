@@ -83,7 +83,7 @@
                     <appName>project-application</appName>
                     <includeTarget>false</includeTarget>
                     <includes>
-                        <include>./target/backend-1.0-SNAPSHOT.jar</include>
+                        <include>/target/backend-1.0-SNAPSHOT.jar</include>
                     </includes>
                     <jdkVersion>${java.version}</jdkVersion>
                 </configuration>
